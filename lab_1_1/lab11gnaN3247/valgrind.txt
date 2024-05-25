@@ -1,0 +1,15 @@
+==4494== Memcheck, a memory error detector
+==4494== Copyright (C) 2002-2022, and GNU GPL'd, by Julian Seward et al.
+==4494== Using Valgrind-3.19.0 and LibVEX; rerun with -h for copyright info
+==4494== Command: ./lab11gnaN3247 example_search_dir 0x796573
+==4494== Parent PID: 2866
+==4494== 
+==4494== 
+==4494== HEAP SUMMARY:
+==4494==     in use at exit: 0 bytes in 0 blocks
+==4494==   total heap usage: 81 allocs, 81 frees, 309,056 bytes allocated
+==4494== 
+==4494== All heap blocks were freed -- no leaks are possible
+==4494== 
+==4494== For lists of detected and suppressed errors, rerun with: -s
+==4494== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
